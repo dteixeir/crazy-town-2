@@ -4,8 +4,7 @@
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
-    "start": "npm install",
-    "serve": "ng serve"
+    "start": "ng serve"
   },
   "engines": {
     "node": ">=0.10.0"
