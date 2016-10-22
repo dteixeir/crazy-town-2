@@ -6,10 +6,6 @@
   "scripts": {
     "start": "npm install",
     "serve": "npm run serve"
-    //"lint": "tslint \"src/**/*.ts\"",
-    //"test": "ng test",
-    //"pree2e": "webdriver-manager update",
-    //"e2e": "protractor"
   },
   "engines": {
     "node": ">=0.10.0"
