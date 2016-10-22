@@ -5,7 +5,7 @@
   "angular-cli": {},
   "scripts": {
     "start": "npm install",
-    "serve": "npm run serve"
+    "serve": "ng serve"
   },
   "engines": {
     "node": ">=0.10.0"
